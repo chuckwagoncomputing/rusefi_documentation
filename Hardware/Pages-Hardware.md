@@ -1,6 +1,6 @@
 ## Master list of hardware (boards) pages 
   
-[Hardware overview](Hardware)  
+[Hardware overview](Hardware-Boards)
 
 
 <details><summary><u>Universal Info</u></summary>
