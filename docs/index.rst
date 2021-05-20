@@ -8,6 +8,7 @@ Welcome to rusEFI Wiki's documentation!
 
 .. toctree::
    :maxdepth: 1
+   :titlesonly:
    :caption: Contents:
    :glob:
 
