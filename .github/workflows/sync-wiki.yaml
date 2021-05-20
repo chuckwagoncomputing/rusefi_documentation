@@ -23,6 +23,8 @@ jobs:
 
     - name: Install Prerequisites
       run: |
+        apt update
+        apt install ncftp
         pip install sphinx sphinx_rtd_theme myst_parser
         
 
