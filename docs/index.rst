@@ -7,7 +7,7 @@ Welcome to rusEFI Wiki's documentation!
 =======================================
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: Contents:
    :glob:
 
@@ -18,6 +18,4 @@ Welcome to rusEFI Wiki's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
