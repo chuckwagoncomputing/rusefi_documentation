@@ -13,7 +13,7 @@
 
 # Technical Details
 
-[[schematic rev C]](Hardware/Hellen/hellen72-c-schematic.pdf)
+[schematic rev C](Hardware/Hellen/hellen72-c-schematic.pdf)
 [[Interactive iBom rev C]](https://rusefi.com/docs/ibom/hellen72-c-ibom.html)
 [[Pinout]](https://rusefi.com/docs/pinouts/hellen/helen72/)
 

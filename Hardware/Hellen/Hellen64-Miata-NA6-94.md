@@ -2,7 +2,7 @@ Hello
 
 [nightly build](https://rusefi.com/build_server/rusefi_bundle_hellenNA6.zip)
 
-[[schematic rev a]](Hardware/Hellen/hellen64_miataNA6_94-a-schematic.pdf)
+[schematic rev a](Hardware/Hellen/hellen64_miataNA6_94-a-schematic.pdf)
 [[ibom rev b]](https://rusefi.com/docs/ibom/hellen64_miataNA6_94-b-ibom.html)
 [[Pinout]](https://rusefi.com/docs/pinouts/hellen/hellen64_miataNA6_94/)
 
