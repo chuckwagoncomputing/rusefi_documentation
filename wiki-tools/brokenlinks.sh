@@ -174,6 +174,7 @@ searchfile() {
     if [ -n "$HASH" ] && [ "$URLSTATUS" -eq 0 ]; then
       checkhash "$1" "$HASH" "$URL"
     fi
+    date +%T.%N
   # This regex finds links in the file that is passed to searchfile
   # Results are fed to file descriptor 3 for the reasons previously explained.
   done 3< <(grep -oP '(?<=\]\().*?(?=[\)])' "$1" | sed -e "s/^<//g" -e "s/>$//g" | cut -d '"' -f1 | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
