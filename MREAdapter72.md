@@ -77,7 +77,7 @@ The following I/O is available. A jumper wire will need to be routed between the
 |   J1    |    PB9     |
 |   J2    |    PC12    |
 
-Extra pins for [353830-5 72 pin](OEM-connectors#72-pin):
+Extra pins for [353830-5 72 pin](OEM-Connectors#72-pin):
 
 TE 316836-1 for 20 AWG to 22 AWG
 

@@ -89,7 +89,7 @@ ToDo:
 
 - number of pins
 - shape of connector
-[OEM connectors](OEM-connectors)
+[OEM connectors](OEM-Connectors)
 
 ## What rusEFI board is correct for your engine?
 

@@ -2,7 +2,7 @@
 
 For now see [Proteus Honda K 125 Adapter](https://github.com/rusefi/proteus-Honda-K-125-adapter)
 
-[125 Pin Connector](OEM-connectors#125)
+[125 Pin Connector](OEM-Connectors#125)
 
 [Acura TSX Engine - Wikipedia](https://en.wikipedia.org/wiki/Acura_TSX#Engine)
 

@@ -1,6 +1,6 @@
 # 2001 Mazda Miata
 
-[72 pin Connector](OEM-connectors#72-pin)
+[72 pin Connector](OEM-Connectors#72-pin)
 
 See also [Mazda Miata 2001 ABS](Mazda-Miata-2001-ABS)
 

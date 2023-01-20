@@ -2,7 +2,7 @@
 
 ## OBD-1
 
-[OBD1 connector part number](OEM-connectors#64)
+[OBD1 connector part number](OEM-Connectors#64)
 
 [1993 Honda Prelude](Honda-Prelude-1993)
 
@@ -14,7 +14,7 @@
 
 ## OBD-2
 
-[OBD2 connector part number](OEM-connectors#104)
+[OBD2 connector part number](OEM-Connectors#104)
 
 [1996 Honda Civic](Honda-Civic-1996)
 
@@ -22,7 +22,7 @@
 
 ## DBC K
 
-[DBC Honda K](OEM-connectors#125-pin)
+[DBC Honda K](OEM-Connectors#125-pin)
 
 ## K engine plug
 
