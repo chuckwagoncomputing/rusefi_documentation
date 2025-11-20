@@ -22,16 +22,16 @@ open source, somewhat abandoned https://github.com/rusefi/hellen-miata-NB2
 
 ## Technical Details
 
-[schematic rev F](Hardware/Hellen/hellen72_NB2-f-schematic.pdf)
+[schematic rev F](hardware/Hellen/hellen72_NB2-f-schematic.pdf)
 [Interactive iBom rev F](https://rusefi.com/docs/ibom/hellen72_NB2-f-ibom.html)
 
-[schematic rev E](Hardware/Hellen/hellen72_NB2-e-schematic.pdf)
+[schematic rev E](hardware/Hellen/hellen72_NB2-e-schematic.pdf)
 [Interactive iBom rev E](https://rusefi.com/docs/ibom/hellen72_NB2-e-ibom.html)
 
-[schematic rev D](Hardware/Hellen/hellen72-d-schematic.pdf)
+[schematic rev D](hardware/Hellen/hellen72-d-schematic.pdf)
 [Interactive iBom rev D](https://rusefi.com/docs/ibom/hellen72-d-ibom.html)
 
-[schematic rev C](Hardware/Hellen/hellen72-c-schematic.pdf)
+[schematic rev C](hardware/Hellen/hellen72-c-schematic.pdf)
 [Interactive iBom rev C](https://rusefi.com/docs/ibom/hellen72-c-ibom.html)
 
 [rev F Pinout]
@@ -44,9 +44,9 @@ open source, somewhat abandoned https://github.com/rusefi/hellen-miata-NB2
 
 [Mazda Miata 2003](Mazda-Miata-2003) [Mazdaspeed Miata 2005](Mazdaspeed-Miata-2005)
 
-![x](Hardware/Hellen/hellen72-c-as-received.jpg)
+![x](hardware/Hellen/hellen72-c-as-received.jpg)
 
-![x](Hardware/Hellen/hellen72a.jpg)
+![x](hardware/Hellen/hellen72a.jpg)
 
 ## Options Port (rev F)
 
@@ -114,4 +114,4 @@ The OEM ECU connector uses AMP Multilock .040 and .070 pins.
 
 See [Legacy-Hellen-WBO](Legacy-Hellen-WBO)
 
-![x](Hardware/Hellen/hellen72-c-connector-cover.jpg)
+![x](hardware/Hellen/hellen72-c-connector-cover.jpg)
