@@ -56,7 +56,7 @@ if [ -n "$1" ]; then
 		sleep 1s
 	fi
 else
-	zensical build
+	zensical build --strict
 	if [ $? -ne 0 ]; then
 		exit 1
 	fi
